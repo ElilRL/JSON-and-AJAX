@@ -1,6 +1,7 @@
 html, body {
     padding: 0;
     margin: 0;
+    background-color: #abe3f4;
   }
   
   .hide-me {
@@ -57,3 +58,5 @@ html, body {
     list-style: none;
     margin: 0;
   }
+
+  
